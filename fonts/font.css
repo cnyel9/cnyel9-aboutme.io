@@ -1,0 +1,15 @@
+@font-face {
+  font-family:script;
+  src:url('/fonts/FiraCodeiScript-Bold.ttf');
+  font-weight: bold;
+}
+@font-face {
+  font-family:script;
+  src:url('/fonts/FiraCodeiScript-Italic.ttf');
+  font-style: italic;
+}
+@font-face {
+  font-family:script;
+  src:url('/fonts/FiraCodeiScript-Regular.ttf');
+  font-style: normal;
+}
